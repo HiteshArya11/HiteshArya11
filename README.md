@@ -1,34 +1,48 @@
 <!-- Animated Typing Header -->
-<h1 align="center">
-  Hi 👋 I'm Hitesh Chourasia
-</h1>
+<h1 align="center">Hi 👋 I'm Hitesh Chourasia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Founder+%40+HitSanX;Building+Skills+Every+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Self-Taught+Developer;AI+%2F+ML+Enthusiast;Azure+AI+%26+Foundry+Learner;Full-Stack+Developer;Building+Projects+Every+Day+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HiteshArya10&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate self-taught developer focused on building real-world technical skills.
+- 📚 Continuing education through NIOS (Open Schooling)
+- 🤖 Learning AI, Azure AI, and Microsoft Foundry
+- 💻 Self-taught developer focused on real-world skills
+- 🚀 Founder of HitSanX
+- 🌱 Building projects and improving every day
 
-📚 Currently continuing my education through NIOS (Open Board)  
-🎯 Preparing for higher studies in technology  
-💡 Committed to continuous learning and long-term growth  
-🚀 Founder of HitSanX — a personal tech initiative focused on AI, development, and digital innovation.
+---
 
-Since 2020, I’ve dedicated myself to mastering programming, development, and creative tools — building a strong technical foundation.
+## ☁️ AI & Cloud
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft_Foundry-000000?style=for-the-badge)
+
+### Currently Learning
+- AI Agents
+- RAG Systems
+- Prompt Engineering
+- MCP Tools
+- Azure AI Foundry
+- Multi-Agent Workflows
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -36,14 +50,36 @@ Since 2020, I’ve dedicated myself to mastering programming, development, and c
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎮 Game Development & 3D
+### 🎮 Tools & Creative
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### 🎨 Creative Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-2B2B2B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
+
+---
+
+## 🏆 Microsoft Learn Achievements
+
+- 🎖 40+ Microsoft AI Badges
+- ⚡ 72k+ XP
+- 🤖 Completed Azure AI & Foundry learning paths
+- 🧠 Studied:
+  - RAG
+  - AI Agents
+  - Prompt Flow
+  - MCP
+  - NLP
+  - Speech AI
+  - Computer Vision
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 AI Chatbot
+- 📚 Survival Encyclopedia App
+- 🧠 RAG Knowledge Assistant
+- 🎙 Voice AI Assistant
+- 🌐 Portfolio Website
 
 ---
 
@@ -58,24 +94,26 @@ Since 2020, I’ve dedicated myself to mastering programming, development, and c
 
 ## 🎯 Current Focus
 
-- AI / Machine Learning  
-- Full-Stack Development  
-- Building scalable projects  
-- Preparing for higher education in technology  
+- AI Engineering
+- Full-Stack Development
+- Azure AI & Foundry
+- Building Real Projects
+- Open Source Learning
 
 ---
 
 ## 🌟 Vision
 
-To become a highly skilled software engineer and build impactful technology products globally.
+To become a highly skilled software engineer and build impactful AI-powered technology products.
 
 ---
 
 ## 📫 Connect With Me
 
-Founder @ HitSanX 🚀  
-📧 hiteshchourasia001@gmail.com  
+📧 hiteshchourasia001@gmail.com
 
 ---
 
-⭐ “Learning consistently. Building fearlessly.”
+<p align="center">
+  ⭐ Learning consistently. Building fearlessly.
+</p>
