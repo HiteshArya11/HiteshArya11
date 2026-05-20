@@ -83,12 +83,25 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshArya10&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshArya10&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiteshArya11&theme=tokyonight" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiteshArya11&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiteshArya11&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiteshArya11&theme=tokyonight" width="32%"/>
+
+</div>
 
 ---
 
