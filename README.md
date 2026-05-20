@@ -95,9 +95,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiteshArya11&theme=tokyonight" width="32%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiteshArya11&theme=tokyonight" width="32%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiteshArya11&theme=tokyonight" width="32%"/>
 
