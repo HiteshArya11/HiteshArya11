@@ -52,9 +52,8 @@
 ## 🚀 Featured Projects
 - 🌐 [Portfolio Website](https://github.com/HiteshArya11/Portfolio-Website-By-Hitesh) — Next.js, TypeScript, TailwindCSS, Framer Motion
 - 📄 [AI Resume Analyzer](https://github.com/HiteshArya11/Ai-Resume-Analyzer) — Python, ML, NLP, Streamlit
-- 🎙 [Eleven Meme Generator](https://github.com/HiteshArya11/eleven-meme-generator) — JS, ElevenLabs API, HTML/CSS
-- 🤖 [AI Eleven Chatbot](https://github.com/HiteshArya11/ai-eleven-chatbot) — AI/ML, Python, ElevenLabs
-
+- 🎙 [Eleven Meme Generator](https://github.com/HiteshArya11/eleven-meme-generator) — JS, Eleven API, HTML/CSS
+- 🤖 [AI Eleven Chatbot](https://github.com/HiteshArya11/ai-eleven-chatbot) — AI/ML, Python, Eleven
 ---
 
 ## 📊 GitHub Stats
